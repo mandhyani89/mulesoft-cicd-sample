@@ -40,7 +40,6 @@
             <environment>Sandbox</environment>
             <workerType>MICRO</workerType>
             <objectStoreV2>true</objectStoreV2>
-            <businessGroupId>Mulesoft</businessGroupId>
         </cloudHubDeployment>
 				</configuration>
 			</plugin>
