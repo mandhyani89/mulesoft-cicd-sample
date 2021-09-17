@@ -36,11 +36,11 @@
             <muleVersion>4.3.0</muleVersion>
             <username>amandhyani</username>
             <password>KalidasAsha@1234</password>
-            <applicationName>mulesoft-cicd-sample1</applicationName>
+            <applicationName>mulesoft-cicd-sample4</applicationName>
             <environment>Sandbox</environment>
             <workerType>MICRO</workerType>
             <objectStoreV2>true</objectStoreV2>
-            <businessGroupId>CA Technologies</businessGroupId>
+            <businessGroupId>Mulesoft</businessGroupId>
         </cloudHubDeployment>
 				</configuration>
 			</plugin>
